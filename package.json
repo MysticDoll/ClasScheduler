@@ -1,0 +1,19 @@
+{
+  "name": "tusscheduler",
+  "version": "1.0.0",
+  "description": "Get shcedule from class provided by Tokyo University of Scienece.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MysticDoll/tusScheduler.git"
+  },
+  "author": "Mitsuru Takigahira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MysticDoll/tusScheduler/issues"
+  },
+  "homepage": "https://github.com/MysticDoll/tusScheduler#readme"
+}
