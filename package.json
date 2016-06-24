@@ -1,5 +1,5 @@
 {
-  "name": "tusscheduler",
+  "name": "ClasScheduler",
   "version": "1.0.0",
   "description": "Get shcedule from class provided by Tokyo University of Scienece.",
   "main": "app.js",
@@ -8,12 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MysticDoll/tusScheduler.git"
+    "url": "git+https://github.com/MysticDoll/ClasScheduler.git"
   },
   "author": "Mitsuru Takigahira",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MysticDoll/tusScheduler/issues"
+    "url": "https://github.com/MysticDoll/ClasScheduler/issues"
   },
-  "homepage": "https://github.com/MysticDoll/tusScheduler#readme"
+  "homepage": "https://github.com/MysticDoll/ClasScheduler#readme",
+  "dependencies": {
+    "jsdom": "^9.2.1",
+    "moment": "^2.13.0",
+    "request": "^2.72.0"
+  }
 }
